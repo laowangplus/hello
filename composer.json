@@ -1,5 +1,6 @@
 {
     "name": "laowang/test",
+    "version": "1.0.0",
     "description": "test",
     "type": "1",
     "require": {
