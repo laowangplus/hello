@@ -1,0 +1,24 @@
+{
+    "name": "laowang/test",
+    "description": "test",
+    "type": "1",
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laowang",
+            "email": "415813765@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "laowang\\": "src/"
+        }
+    }
+}
